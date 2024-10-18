@@ -1,5 +1,3 @@
-// Rustam Zokirov - (U1910049) - Section 004;
-// Second Program - Final Assignment;
 // BINARY FILES ARE USED
 
 #include <iostream>
